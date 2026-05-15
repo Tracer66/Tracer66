@@ -48,6 +48,7 @@ Current Status: "Coding in the shadows 🌙"
 </tr>
 </table>
 ---
+
 # 🔥 THE SHADOWS
 
 <div align="center">
