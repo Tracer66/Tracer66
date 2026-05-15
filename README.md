@@ -55,7 +55,7 @@ Current Status: "Coding in the shadows 🌙"
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/64202805dcfea1001d0b7a1a.jpg" width="24%" />
+<img src="https://i.pinimg.com/736x/b4/47/db/b447dbc2ce66fde1ff33824e363774cb.jpg" width="24%" />
 
 <img src="https://i.pinimg.com/736x/e1/ac/e1/e1ace1dac6873f80ae0c9fb8e0c668e9.jpg" width="24%" />
 
