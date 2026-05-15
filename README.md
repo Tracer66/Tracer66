@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://wallpapercave.com/wp/wp9427085.gif" width="100%"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
 
 # ☠️ APOORWA ☠️
 
-### 「 Creative Developer • Graphic Designer • Anime Soul 」
+### 「 Shadow Developer • Graphic Designer • Anime Soul 」
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Welcome+to+the+Dark+Side+...;Itachi+Uchiha+Inspired+🔥;Coding+Through+The+Night+🌙;Full+Stack+Developer+💻;Graphic+Designer+🎨" />
-
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Anime+Lover+%F0%9F%8C%B8;Designer+%2B+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 ---
 
 # 🌑 ABOUT ME
