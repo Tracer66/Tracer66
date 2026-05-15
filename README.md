@@ -4,7 +4,7 @@
 
 # ☠️ APOORWA ☠️
 
-### 「 Shadow Developer • Graphic Designer • Anime Soul 」
+### 「 Creative Developer • Graphic Designer  」
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Welcome+to+the+Dark+Side+...;Itachi+Uchiha+Inspired+🔥;Coding+Through+The+Night+🌙;Full+Stack+Developer+💻;Graphic+Designer+🎨" />
@@ -16,7 +16,7 @@
 
 <p align="center">
 
-<img src="https://media.tenor.com/Jj8WExc_MbkAAAAd/itachi-uchiha.gif" width="280"/>
+<img src=https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/64202805dcfea1001d0b7a1a.jpg width="280"/>
 
 <img src="https://media.tenor.com/0l1oD8K1xXcAAAAC/sukuna-jujutsu-kaisen.gif" width="280"/>
 
