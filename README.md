@@ -61,6 +61,8 @@ Current Status: "Coding in the shadows 🌙"
 
 <img src="https://i.redd.it/5ux07aoz4cxe1.jpeg" width="24%" />
 
+<img src="https://i.pinimg.com/736x/ef/05/09/ef0509b1dba2e7e7ad36bf23faeaac05.jpg" width="24%" />
+
 </div>
 
 # ⚔️ TECH STACK
