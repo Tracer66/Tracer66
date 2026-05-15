@@ -18,15 +18,15 @@
 
 <img src=https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/64202805dcfea1001d0b7a1a.jpg width="280"/>
 
-<img src="https://media.tenor.com/0l1oD8K1xXcAAAAC/sukuna-jujutsu-kaisen.gif" width="280"/>
+<img src="https://i.pinimg.com/736x/65/da/fb/65dafb49fed4ff91da4f32dfa8a6db7c.jpg" width="280"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://media.tenor.com/5i0F9gzw5gkAAAAC/itachi-anime.gif" width="280"/>
+<img src="https://i.pinimg.com/736x/e1/ac/e1/e1ace1dac6873f80ae0c9fb8e0c668e9.jpg" width="280"/>
 
-<img src="https://media.tenor.com/8Q0sJYQ4WJ0AAAAC/gojo-satoru.gif" width="280"/>
+<img src="https://i.redd.it/5ux07aoz4cxe1.jpeg" width="280"/>
 
 </p>
 
@@ -42,7 +42,6 @@ Focus:
   - Web Development
   - UI/UX Design
   - Creative Coding
-  - Anime Inspired Projects
 Energy: "Cold like Itachi ❄️"
 ```
 
@@ -74,7 +73,7 @@ Energy: "Cold like Itachi ❄️"
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tracer66&theme=react-dark&hide_border=true&bg_color=0d1117"/>
 
 </p>
 
