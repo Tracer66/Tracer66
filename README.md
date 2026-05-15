@@ -7,7 +7,7 @@
 ### 「 Creative Developer • Graphic Designer  」
 
 <p align="center">
-<img src="https://i.pinimg.com/236x/c8/6e/1f/c86e1f2c96eea7ca7e21a12a9ce05f09.jpg font=Orbitron&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Welcome+to+the+Dark+Side+...;Itachi+Uchiha+Inspired+🔥;Coding+Through+The+Night+🌙;Full+Stack+Developer+💻;Graphic+Designer+🎨" />
+<img src="https://i.pinimg.com/736x/1a/c6/3a/1ac63a04f4d01105523ea7ab4e9ed304.jpg font=Orbitron&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Welcome+to+the+Dark+Side+...;Itachi+Uchiha+Inspired+🔥;Coding+Through+The+Night+🌙;Full+Stack+Developer+💻;Graphic+Designer+🎨" />
 </p>
 
 ---
