@@ -103,9 +103,9 @@ Current Status: "Coding in the shadows 🌙"
 
 <img src="https://img.shields.io/badge/Ryomen_Sukuna-black?style=for-the-badge&logo=ghost&logoColor=darkred"/>
 
-<img src="https://img.shields.io/badge/Gojo_Satoru-black?style=for-the-badge&logo=ghost&logoColor=purple"/>
+<img src="https://img.shields.io/badge/Sung_Jin-woo-black?style=for-the-badge&logo=ghost&logoColor=purple"/>
 
-<img src="https://img.shields.io/badge/Lelouch-black?style=for-the-badge&logo=ghost&logoColor=red"/>
+<img src="https://img.shields.io/badge/Naruto_Uzumaki-black?style=for-the-badge&logo=ghost&logoColor=red"/>
 
 </div>
 
