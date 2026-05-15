@@ -95,22 +95,6 @@ Current Status: "Coding in the shadows 🌙"
 
 ---
 
-# 🩸 FAVORITE CHARACTERS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Itachi_Uchiha-black?style=for-the-badge&logo=ghost&logoColor=red"/>
-
-<img src="https://img.shields.io/badge/Ryomen_Sukuna-black?style=for-the-badge&logo=ghost&logoColor=darkred"/>
-
-<img src="https://img.shields.io/badge/Sung_Jin woo-black?style=for-the-badge&logo=ghost&logoColor=purple"/>
-
-<img src="https://img.shields.io/badge/Naruto_Uzumaki-black?style=for-the-badge&logo=ghost&logoColor=orange"/>
-
-</div>
-
----
-
 # 🌙 ANIME QUOTES
 
 <div align="center">
@@ -137,10 +121,6 @@ Current Status: "Coding in the shadows 🌙"
 
 <a href="https://instagram.com/apoo_2006_">
 <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://gmail.com/apoorwarathnayake@gmail.com">
-<img src="![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&color=%23ef4444)"/>
 </a>
 
 <a href="https://linkedin.com/in/apoo666">
