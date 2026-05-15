@@ -1,113 +1,138 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/7d/9e/8e/7d9e8e8d1d0b90f6d3e2c93c0f9c3d7.gif" width="100%"/>
+<img src="https://wallpapercave.com/wp/wp9427085.gif" width="100%"/>
 
-# ☠️ Apoorwa ☠️
+# ☠️ APOORWA ☠️
 
-### 「 Full Stack Developer • Graphic Designer  」
+### 「 Shadow Developer • Graphic Designer • Anime Soul 」
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+my+dark+realm+...;Coding+through+the+night+%F0%9F%8C%99;Inspired+by+Itachi+Uchiha+%F0%9F%94%A5;Chaos+like+Ryomen+Sukuna+%E2%98%A0%EF%B8%8F;Designing+the+future+in+darkness..." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Welcome+to+the+Dark+Side+...;Itachi+Uchiha+Inspired+🔥;Coding+Through+The+Night+🌙;Full+Stack+Developer+💻;Graphic+Designer+🎨" />
 </p>
 
 ---
 
-## 🌑 About Me
+# 🌑 THE SHADOWS
 
-```diff
-+ 🎨 Creative Graphic Designer
-+ 💻 Full Stack Developer
-+ 🌸 Anime & Manga Enthusiast
-+ 🌌 Loves dark aesthetic 
-+ 📚 Always learning new things
-+ ⚡ Turning imagination into reality
+<p align="center">
+
+<img src="https://media.tenor.com/Jj8WExc_MbkAAAAd/itachi-uchiha.gif" width="280"/>
+
+<img src="https://media.tenor.com/0l1oD8K1xXcAAAAC/sukuna-jujutsu-kaisen.gif" width="280"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://media.tenor.com/5i0F9gzw5gkAAAAC/itachi-anime.gif" width="280"/>
+
+<img src="https://media.tenor.com/8Q0sJYQ4WJ0AAAAC/gojo-satoru.gif" width="280"/>
+
+</p>
+
+---
+
+# ⚔️ ABOUT ME
+
+```yaml
+Name: Apoorwa
+Role: Full Stack Developer & Graphic Designer
+Theme: Dark Anime Aesthetic
+Focus:
+  - Web Development
+  - UI/UX Design
+  - Creative Coding
+  - Anime Inspired Projects
+Energy: "Cold like Itachi ❄️"
 ```
 
 ---
 
-# 🔥 「 ANIME ENERGY 」
+# 🔥 TECH STACK
 
 <p align="center">
 
-<img src="https://media.tenor.com/Jj8WExc_MbkAAAAC/itachi-uchiha.gif" width="260"/>
-
-<img src="https://media.tenor.com/GkDcFj0K8fAAAAAC/sukuna-jujutsu-kaisen.gif" width="260"/>
-
-</p>
-
-### ⚔️ Favorite Characters
-- 🩸 Itachi Uchiha
-- ☠️ Ryomen Sukuna
-- ⚡ Gojo Satoru
-- 🌑 Sung Jin-Woo
-
----
-
-# 🩸 Tech Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,python,java,mongodb,mysql,figma,photoshop,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,mysql,python,java,figma,photoshop,git,vscode&theme=dark"/>
 
 </p>
 
 ---
 
-# ⚡ GitHub Stats
+# ☠️ GITHUB STATS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tracer66show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tracer66&theme=tokyonight&hide_border=true&background=0d1117"/>
 
 </p>
 
 ---
 
-# ☠️ Contribution Graph
+# 🌌 ACTIVITY GRAPH
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117"/>
 
 </p>
 
 ---
 
-# 🌙 Dark Quotes
+# 🩸 FAVORITE CHARACTERS
 
-> *"People live their lives bound by what they accept as correct and true."*  
+<p align="center">
+
+<img src="https://img.shields.io/badge/Itachi_Uchiha-black?style=for-the-badge&logo=ghost&logoColor=red"/>
+
+<img src="https://img.shields.io/badge/Ryomen_Sukuna-black?style=for-the-badge&logo=ghost&logoColor=darkred"/>
+
+<img src="https://img.shields.io/badge/Gojo_Satoru-black?style=for-the-badge&logo=ghost&logoColor=purple"/>
+
+<img src="https://img.shields.io/badge/Lelouch-black?style=for-the-badge&logo=ghost&logoColor=red"/>
+
+</p>
+
+---
+
+# 🌙 ANIME QUOTES
+
+> *"Knowledge and awareness are vague, and perhaps better called illusions."*  
 > — Itachi Uchiha
 
 <br>
 
-> *"Throughout heaven and earth, I alone am the honored one."*  
-> — Gojo Satoru
+> *"Stand proud, you are strong."*  
+> — Ryomen Sukuna
 
 ---
 
-# 🎵 Coding Vibes
+# 🎧 CURRENTLY PLAYING
 
-🎧 Lo-fi + Anime OST + Rain Sounds 🌧️  
-🌌 Coding at midnight hits different...
+```diff
++ 🎵 Anime OST
++ 🌧️ Rain Sounds
++ 🌌 Lo-Fi Beats
++ ☕ Midnight Coding Sessions
+```
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
 <a href="https://github.com/Tracer66">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/apoo_2006_">
 <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/apoo666/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/apoo666">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
