@@ -67,7 +67,7 @@ Current Status: "Coding in the shadows 🌙"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,mysql,python,java,figma,photoshop,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,mysql,python,java,figma,photoshop,illustrator,git,vscode&theme=dark"/>
 
 </div>
 
