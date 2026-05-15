@@ -31,7 +31,14 @@ Focus:
   - Web Development
   - UI/UX Design
   - Creative Coding
-  - Modern UI Designs
+  - Poster Designs
+
+  + 🎨 Creative Graphic Designer
+  + 💻 Full Stack Developer
+  + 🌸 Anime & Manga Enthusiast
+  + 🌌 dark aesthetic vibes
+  + 📚 Love reading, anime, dramas & storytelling 
+  + ⚡ Turning imagination into reality
 
 Energy: "Cold like Itachi ❄️"
 Current Status: "Coding in the shadows 🌙"
