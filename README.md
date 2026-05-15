@@ -32,13 +32,6 @@ Focus:
 Energy: "Cold like Itachi ❄️"
 Current Status: "Coding in the shadows 🌙"
 ```
-
-### ⚔️ Favorite Characters
-- ☠️ Itachi Uchiha
-- 🔥 Ryomen Sukuna
-- 👁️ Gojo Satoru
-- 🌑 Lelouch Lamperouge
-
 </td>
 
 <td width="45%">
