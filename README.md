@@ -11,22 +11,12 @@
 </div>
 
 ---
+
 # 🌑 ABOUT ME
 
 <table>
 <tr>
-
-<td width="30%" align="center">
-
-<img src="YOUR_PIKACHU_IMAGE_LINK" width="100%" />
-
-<br><br>
-
-<img src="https://i.pinimg.com/736x/65/da/fb/65dafb49fed4ff91da4f32dfa8a6db7c.jpg" width="100%" />
-
-</td>
-
-<td width="70%">
+<td width="55%">
 
 ```yaml
 Name: Apoorwa
@@ -38,16 +28,36 @@ Focus:
   - UI/UX Design
   - Creative Coding
   - Modern UI Designs
-  -Graphic Designing
 
 Energy: "Cold like Itachi ❄️"
 Current Status: "Coding in the shadows 🌙"
 ```
+
+### ⚔️ Favorite Characters
+- ☠️ Itachi Uchiha
+- 🔥 Ryomen Sukuna
+- 👁️ Gojo Satoru
+- 🌑 Lelouch Lamperouge
+
 </td>
 
+<td width="45%">
+
+<div align="center">
+
+<img src="https://i.pinimg.com/736x/1a/c6/3a/1ac63a04f4d01105523ea7ab4e9ed304.jpg" width="100%" />
+
+<br><br>
+
+<img src="https://i.pinimg.com/736x/65/da/fb/65dafb49fed4ff91da4f32dfa8a6db7c.jpg" width="100%" />
+
+</div>
+
+</td>
 </tr>
 </table>
 
+---
 # 🔥 THE SHADOWS
 
 <div align="center">
@@ -59,8 +69,6 @@ Current Status: "Coding in the shadows 🌙"
 <img src="https://i.redd.it/5ux07aoz4cxe1.jpeg" width="24%" />
 
 </div>
-
----
 
 # ⚔️ TECH STACK
 
