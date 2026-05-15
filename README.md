@@ -2,7 +2,7 @@
 
 # ☠️ APOORWA ☠️
 
-### 「 Shadow Developer • Graphic Designer • Anime Soul 」
+### 「 Creative Developer • Graphic Designer • Anime Soul 」
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;"alt="Typing SVG" />
